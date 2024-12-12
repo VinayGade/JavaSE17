@@ -20,7 +20,6 @@ public class StudentSorting {
         students.add(s3);
         students.add(s4);
         students.add(s5);
-
          */
 
         Collections.sort(students, (student1, student2) ->
